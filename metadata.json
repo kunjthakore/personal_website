@@ -1,0 +1,6 @@
+{
+  "name": "Personal Website",
+  "description": "A minimalist dark-themed personal website and profile section inspired by malgamves.dev.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
